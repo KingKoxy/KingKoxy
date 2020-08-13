@@ -1,16 +1,18 @@
-### Hi there 👋
+About Me
+========
+Hi, I'm Konrad, a 17 year old student from Germany. This year I will attend my A-Levels. Afterwards I am going to study Computer Science in Munich.
 
-<!--
-**KingKoxy/KingKoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+------
+* Java
+* HTML
+* CSS
+* JS
+* SQL
+* Python
+* XML
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+--------
+Currently I'm working on a new app, that helps you keep track of your workout plans.
+Before I have developed an [app](https://github.com/KingKoxy/Androeyed) that can extract text from images using one of googles APIs.
