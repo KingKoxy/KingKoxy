@@ -1,18 +1,21 @@
 About Me
 ========
-Hi, I'm Konrad, a 17 year old student from Germany. This year I will attend my A-Levels. Afterwards I am going to study Computer Science in Munich.
+Hi, I'm Konrad, a 19 year old computer science student from Germany. 
 
 Skills
 ------
 * Java
+* Vue, Svelte
 * HTML
 * CSS
-* JS
-* SQL
+* JS, TS
+* Bootstrap, Tailwind CSS, Windi CSS
 * Python
-* XML
+* Dart, Flutter
+* Firebase
+* SQL, MongoDB
 
 Projects
 --------
-Currently I'm working on a new app, that helps you keep track of your workout plans.
+Currently I'm working on a drinking game called Hopdrop which can be downloaded in the App Store and the Google Play Store
 Before I have developed an [app](https://github.com/KingKoxy/Androeyed) that can extract text from images using one of googles APIs.
