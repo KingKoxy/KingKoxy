@@ -9,6 +9,7 @@ Skills
 * HTML
 * CSS
 * JS, TS
+* PHP
 * Bootstrap, Tailwind CSS, Windi CSS
 * Python
 * Dart, Flutter
@@ -17,7 +18,7 @@ Skills
 
 Projects
 --------
-Currently I'm working on a drinking game called Hopdrop which can be downloaded in the App Store and the Google Play Store
+Currently I'm working on a drinking game called Hopdrop which can be downloaded in the App Store and the [Google Play Store](https://play.google.com/store/apps/details?id=com.kingkoxy.hopfentorpedo)
 Before I have developed an [app](https://github.com/KingKoxy/Androeyed) that can extract text from images using one of googles APIs.
 
 <img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KingKoxy&theme=dark&show_icons=true" />
