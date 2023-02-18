@@ -1,6 +1,6 @@
 About Me
 ========
-Hi, I'm Konrad, a 19 year old computer science student from Germany. 
+Hi, I'm Konrad, a 20 year old computer science student from Germany. 
 
 Skills
 ------
