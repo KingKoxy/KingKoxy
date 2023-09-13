@@ -4,21 +4,32 @@ Hi, I'm Konrad, a 20 year old computer science student from Germany.
 
 Skills
 ------
-* Java
-* Vue, Svelte
-* HTML
-* CSS
-* JS, TS
-* PHP
-* Bootstrap, Tailwind CSS, Windi CSS
-* Python
-* Dart, Flutter
-* Firebase
-* SQL, MongoDB
+* Webdevelopment
+  * Svelte
+  * Vue
+  * HTML, CSS, JS/TS
+  * PHP
+  * Bootstrap, Tailwind CSS
+* Appdevelopment
+  * Flutter
+  * Jetpack Compose
+* Languages
+  * Dart
+  * JS/TS
+  * Java
+  * Python
+* Concepts
+  * APIs
+  * Databases
+  * Firebase
+* Other Skills
+  * Figma
+  * Inkscape
+  * Gimp
 
 Projects
 --------
-Currently I'm working on a drinking game called Hopdrop which can be downloaded in the App Store and the [Google Play Store](https://play.google.com/store/apps/details?id=com.kingkoxy.hopfentorpedo).
-Before I have developed an [app](https://github.com/KingKoxy/Androeyed) that can extract text from images using one of googles APIs.
+I have developed multiple Webapps or Websites like the [Website](https://github.com/KingKoxy/o-phase) for a University Group.
+Also i have developed a few apps like [SpiceSquad](https://github.com/KingKoxy/SpiceSquad), [Hopdrop](https://github.com/KingKoxy/hopfentropfen) or [Androeyed](https://github.com/KingKoxy/Androeyed)
 
-<img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KingKoxy&theme=dark&show_icons=true" />
+<img aligin="left" alt="kingkoxy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KingKoxy&theme=dark&show_icons=true" />
