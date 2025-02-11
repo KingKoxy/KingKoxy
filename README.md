@@ -6,7 +6,7 @@ Skills
 ------
 * Webdevelopment
   * Svelte
-  * Vue
+  * Vue.js
   * HTML, CSS, JS/TS
   * PHP
   * Bootstrap, Tailwind CSS
@@ -18,6 +18,8 @@ Skills
   * JS/TS
   * Java
   * Python
+  * C
+  * SQL
 * Concepts
   * APIs
   * Databases
